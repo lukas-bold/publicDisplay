@@ -1,13 +1,13 @@
-#LMU Media Informatics Public Display
+#LMU Media Informatics Public Display :tv:
 
 by [Lukas Rambold](http://lukasrambold.com), May `15
 
 ## Make it work:
 
 - Install nodejs on your system and make sure that it's accesible from your global command scope
-- execute install.bat in the main directory (or run `npm i & npm i bower -g & bower i` in your console)
+- execute exe/install.bat in the main directory (or run `npm i & npm i bower -g & bower i` in your console)
 - use the dropbox-client to sync your slide images and markdown-files with the `slides` folder (*Side Note:* images in the `image partials` folder wont be rendered as slides)
-- to start the presentation execute install.bat from the main directory (or run `grunt serve` in your console)
+- to start the presentation execute exe/install.bat from the main directory (or run `grunt serve` in your console)
 
 
 ## Credits

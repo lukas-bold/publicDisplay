@@ -1,0 +1,9 @@
+{
+  "name": "media-infomatics-munich",
+  "version": "0.0.0",
+  "dependencies": {
+    "reveal.js": "~3.1.0",
+    "reveal-highlight-themes": "~8.3.0",
+    "jQuery": "~2.1.4"
+  }
+}

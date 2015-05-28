@@ -1,0 +1,1613 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"B",
+				"Breze"
+			],
+			[
+				"my",
+				"myconcat"
+			],
+			[
+				"imp",
+				"import"
+			],
+			[
+				"de",
+				"deriving"
+			],
+			[
+				"ednif",
+				"endif2"
+			],
+			[
+				"re",
+				"removedE"
+			],
+			[
+				"to",
+				"toL"
+			],
+			[
+				"fro",
+				"fromL"
+			],
+			[
+				"towers",
+				"towersToList"
+			],
+			[
+				"In",
+				"INHALT"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"ne",
+				"next"
+			],
+			[
+				"iter",
+				"iterator"
+			],
+			[
+				"Iter",
+				"Iterator"
+			],
+			[
+				"in",
+				"inputHandler"
+			],
+			[
+				"medi",
+				"mediaplayer"
+			],
+			[
+				"deploy",
+				"ftp-deploy"
+			],
+			[
+				"capt",
+				"Captcha"
+			],
+			[
+				"fo",
+				"font-weight"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"Prod",
+				"Produktdatenmanagement"
+			],
+			[
+				"form",
+				"form-control"
+			],
+			[
+				"brand",
+				"brand-danger"
+			],
+			[
+				"err",
+				"errorMessage"
+			],
+			[
+				"mai",
+				"mailValid"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"border-rad",
+				"border-radius"
+			],
+			[
+				"st",
+				"strong	<strong>"
+			],
+			[
+				"sess",
+				"session_start"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"compi",
+				"compile"
+			],
+			[
+				"pr",
+				"private"
+			],
+			[
+				"add",
+				"addGeschenke"
+			],
+			[
+				"for",
+				"for	for"
+			],
+			[
+				"sta",
+				"stadt"
+			],
+			[
+				"Z",
+				"zKoordinate"
+			],
+			[
+				"get",
+				"getSecs"
+			],
+			[
+				"ge",
+				"getHrs"
+			],
+			[
+				"sek",
+				"sekunden"
+			],
+			[
+				"coo",
+				"connector"
+			],
+			[
+				"wo",
+				"word"
+			],
+			[
+				"um",
+				"umrechnen"
+			],
+			[
+				"ma",
+				"matrix"
+			],
+			[
+				"num",
+				"numBuckets"
+			],
+			[
+				"zei",
+				"enthaeltZeile"
+			],
+			[
+				"tr",
+				"true"
+			],
+			[
+				"nu",
+				"numBuckets"
+			],
+			[
+				"stu",
+				"studentenPunkte"
+			],
+			[
+				"stude",
+				"studentenPunkte"
+			],
+			[
+				"pa",
+				"palindrom"
+			],
+			[
+				"el",
+				"el	else"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"ka",
+				"katToPol"
+			],
+			[
+				"po",
+				"polToKat"
+			],
+			[
+				"d",
+				"double"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"bore",
+				"border-radius"
+			],
+			[
+				"border",
+				"border"
+			],
+			[
+				"wat",
+				"watch"
+			],
+			[
+				"script",
+				"SCRIPT"
+			],
+			[
+				"i",
+				"inline"
+			],
+			[
+				"border-ra",
+				"border-radius"
+			],
+			[
+				"rgb",
+				"rgba(r,g,b,a)"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"import",
+				"important"
+			],
+			[
+				"impor",
+				"important"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"fs",
+				"font-size"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"impo",
+				"important"
+			],
+			[
+				"sc",
+				"scrollTop"
+			],
+			[
+				"h",
+				"hash"
+			],
+			[
+				"fun",
+				"fun	Function"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"r",
+				"right"
+			],
+			[
+				"rg",
+				"rgba(r,g,b,a)"
+			],
+			[
+				"p",
+				"pos	position: ${1:relative};"
+			],
+			[
+				"backr",
+				"background-image"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"backgr",
+				"background-image"
+			],
+			[
+				"tex",
+				"text-transform"
+			],
+			[
+				"fa",
+				"false"
+			],
+			[
+				"Err",
+				"ErrorMessage"
+			],
+			[
+				"loading",
+				"loadingLists"
+			],
+			[
+				"con",
+				"content"
+			],
+			[
+				"b",
+				"background"
+			],
+			[
+				"tra",
+				"trackError"
+			],
+			[
+				"ar",
+				"artist"
+			],
+			[
+				"pro",
+				"processed"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"item",
+				"itemCount"
+			],
+			[
+				"se",
+				"setLength"
+			],
+			[
+				"ad",
+				"addClass"
+			],
+			[
+				"sp",
+				"spPlaylist"
+			],
+			[
+				"v",
+				"var"
+			],
+			[
+				"trac",
+				"track_uri"
+			],
+			[
+				"spo",
+				"spotify_request"
+			],
+			[
+				"pri",
+				"print_r"
+			],
+			[
+				"t",
+				"tracks"
+			],
+			[
+				"pl",
+				"plaintext"
+			],
+			[
+				"c",
+				"center"
+			],
+			[
+				"a",
+				"addPlaylistItem"
+			],
+			[
+				"val",
+				"value"
+			],
+			[
+				"pla",
+				"plaintext"
+			],
+			[
+				"q",
+				"query"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"border-r",
+				"border-top-right-radius"
+			],
+			[
+				"border-radius",
+				"border-top-left-radius"
+			],
+			[
+				"di",
+				"display"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "downloadDropboxImages.js",
+			"settings":
+			{
+				"buffer_size": 282,
+				"line_ending": "Unix",
+				"name": "var dbox  = require(\"dbox\")"
+			}
+		},
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 547,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Haskell/Haskell.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Haskell/Haskell.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Haskell/Haskell.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Java/Ant.sublime-build",
+					""
+				],
+				[
+					"Packages/Java/JavaC.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Java/Ant.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Java/JavaC.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Java/JavaC.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Markdown Preview/Markdown.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Markdown Preview/Markdown.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Markdown Preview/Markdown.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "in",
+		"selected_items":
+		[
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"sav",
+				"Project: Save As"
+			],
+			[
+				"htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"mar",
+				"Set Syntax: Markdown"
+			],
+			[
+				"build",
+				"Build With: JavaC"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"ma",
+				"Set Syntax: Markdown"
+			],
+			[
+				"mip",
+				"Set Syntax: MIPS"
+			],
+			[
+				"INS",
+				"Package Control: Install Package"
+			],
+			[
+				"sort",
+				"Sort Lines"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"git co",
+				"Git: Commit"
+			],
+			[
+				"previe",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"pando",
+				"Pandoc"
+			],
+			[
+				"c",
+				"Git: Commit"
+			],
+			[
+				"add",
+				"Git: Quick Add"
+			],
+			[
+				"com",
+				"Git: Commit"
+			],
+			[
+				"git c",
+				"Git: Commit"
+			],
+			[
+				"pre",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"git ",
+				"Git: Status"
+			],
+			[
+				"pan",
+				"Pandoc"
+			],
+			[
+				"java",
+				"Set Syntax: Java"
+			],
+			[
+				"set ma",
+				"Set Syntax: Markdown"
+			],
+			[
+				"markd",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"preview",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"prev",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"hask",
+				"Set Syntax: Haskell"
+			],
+			[
+				"dic",
+				"Dictionaries: Set Language"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"lint",
+				"SublimeLinter: Next Error"
+			],
+			[
+				"github",
+				"Github: Repository"
+			],
+			[
+				"lin ",
+				"SublimeLinter: Show Errors on Save"
+			],
+			[
+				"la",
+				"Markmon launch"
+			],
+			[
+				"ex",
+				"Markmon exit"
+			],
+			[
+				"exi",
+				"Markmon exit"
+			],
+			[
+				"lau",
+				"Markmon launch"
+			],
+			[
+				"mark ex",
+				"Markmon exit"
+			],
+			[
+				"markmon",
+				"Markmon exit"
+			],
+			[
+				"markm",
+				"Markmon launch"
+			],
+			[
+				"set markdown",
+				"Set Syntax: Markdown Extended"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"upda",
+				"Git: Update Project Ignored Files"
+			],
+			[
+				"chor",
+				"Set Syntax: ChordPro"
+			],
+			[
+				"show",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"lin",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"linter",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"set mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"pomodo",
+				"pomodoro"
+			],
+			[
+				"pomo",
+				"pomodoro"
+			],
+			[
+				"show e",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"wrap",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"task",
+				"Set Syntax: Tasks"
+			],
+			[
+				"todo",
+				"Package Control: Discover Packages"
+			],
+			[
+				"word ",
+				"Word Wrap: Toggle"
+			],
+			[
+				"brow",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"markdown",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"markdown pre",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"githu",
+				"Github: Issues"
+			],
+			[
+				"git",
+				"Git: Push"
+			],
+			[
+				"comm",
+				"Git: Commit"
+			],
+			[
+				"ja",
+				"Javatar: Operations..."
+			],
+			[
+				"jar",
+				"Javatar: Operations..."
+			],
+			[
+				"bu",
+				"Javatar: Builds..."
+			],
+			[
+				"xml",
+				"Set Syntax: XML"
+			],
+			[
+				"jav",
+				"Javatar: Builds..."
+			],
+			[
+				"java bui",
+				"Javatar: Builds..."
+			],
+			[
+				"pla",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"javad",
+				"Javatar: Builds..."
+			],
+			[
+				"bui",
+				"Javatar: Builds..."
+			],
+			[
+				"twi",
+				"Twitter timeline"
+			],
+			[
+				"mard",
+				"Set Syntax: Markdown"
+			],
+			[
+				"new ma",
+				"Markdown Preview: Open Markdown Cheat sheet"
+			],
+			[
+				"Snippet: fo",
+				"Snippet: for (each)"
+			],
+			[
+				"buil",
+				"Build: Build"
+			],
+			[
+				"package c",
+				"Package Control: Discover Packages"
+			],
+			[
+				"pac",
+				"Package Control: Create Package File"
+			],
+			[
+				"theme",
+				"Snippet: handlebars template"
+			],
+			[
+				"md ",
+				"Set Syntax: Markdown"
+			],
+			[
+				"proje",
+				"Project: Close"
+			],
+			[
+				"coff",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"commen",
+				"Toggle Comment"
+			],
+			[
+				"snippe",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"Snippet: con",
+				"Snippet: consoleLog"
+			],
+			[
+				"jso",
+				"Set Syntax: JSON"
+			],
+			[
+				"Snippet",
+				"Snippet: Prototype"
+			],
+			[
+				"less",
+				"Set Syntax: LESS"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"console",
+				"Set Syntax: R Console"
+			]
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 64.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Lukas/Desktop/MedienInfo/publicDisplay",
+		"/C/Users/Lukas/Desktop/MedienInfo/publicDisplay/templates"
+	],
+	"file_history":
+	[
+		"/C/Users/Lukas/Documents/GitHub/uniworx 3/gulpfile.js",
+		"/C/Users/Lukas/Documents/GitHub/uniworx 3/package.json",
+		"/C/Users/Lukas/Documents/GitHub/uniworx 3/.sublime-project",
+		"/C/Users/Lukas/Desktop/MedienInfo/www/.sublime-project",
+		"/C/Users/Lukas/Desktop/MedienInfo/www/twitterbox/twitteroauth2.php",
+		"/C/Users/Lukas/Desktop/index.html",
+		"/C/Users/Lukas/Desktop/MedienInfo/www/studierende/pruefungsleistungen/index.xhtml",
+		"/C/Users/Lukas/Desktop/MedienInfo/www/studierende/index.xhtml",
+		"/C/Users/Lukas/Desktop/MedienInfo/www/news/newsinclude.txt",
+		"/C/Users/Lukas/Desktop/MedienInfo/www/top.navmenu",
+		"/C/Users/Lukas/Desktop/MedienInfo/www/var.redir",
+		"/C/Users/Lukas/Desktop/MedienInfo/www/robots.txt",
+		"/C/Users/Lukas/Desktop/MedienInfo/www/da_und_pa.html.redir",
+		"/C/Users/Lukas/Desktop/MedienInfo/www/de.redir",
+		"/C/Users/Lukas/Desktop/MedienInfo/www/lehre/anmeldung.php",
+		"/C/Users/Lukas/Desktop/Uni/AlDa/4/BinaerBaum.java",
+		"/C/Users/Lukas/Desktop/Uni/Promo/2/H2-2.hs",
+		"/C/Users/Lukas/Desktop/Uni/Promo/2/H2-1.hs",
+		"/C/Users/Lukas/Desktop/Uni/Promo/4/H4-3.hs",
+		"/C/Users/Lukas/Desktop/Uni/Promo/4/H4-1.hs",
+		"/C/Users/Lukas/Desktop/Uni/Promo/4/A4-1.hs",
+		"/C/Users/Lukas/Desktop/MedienInfo Dropbox/zugang.txt",
+		"/C/Users/Lukas/Desktop/MedienInfo/PaDaBaMa/pub/alt_3Dprototyping/status.txt",
+		"/C/Users/Lukas/Desktop/MedienInfo/PaDaBaMa/people/balagtas-fernandez.link",
+		"/C/Users/Lukas/Desktop/MedienInfo/PaDaBaMa/people/broy.link",
+		"/C/Users/Lukas/Desktop/MedienInfo/PaDaBaMa/people/conradi.link",
+		"/C/Users/Lukas/Desktop/MedienInfo/PaDaBaMa/people/streng.link",
+		"/C/Users/Lukas/Desktop/MedienInfo/PaDaBaMa/people/rohs.link",
+		"/C/Users/Lukas/AppData/Local/Temp/Temp1_loesung_88653.zip/88653/bewertung_88653.txt",
+		"/C/Users/Lukas/AppData/Local/Temp/Temp1_mt_gui_ue2 (1).zip/View.java",
+		"/C/Users/Lukas/AppData/Local/Temp/Temp1_mt_gui_ue2 (1).zip/Yaca.java",
+		"/C/Users/Lukas/Desktop/eclipse_workspace/Medientechnik/src/View.java",
+		"/C/Users/Lukas/AppData/Local/Temp/Temp1_MedientechnikKopie.zip/Medientechnik - Kopie/src/View.java",
+		"/C/Users/Lukas/AppData/Local/Temp/Temp1_Medientechnik2.zip/Medientechnik/src/Model.java",
+		"/C/Users/Lukas/AppData/Local/Temp/Temp1_Medientechnik2.zip/Medientechnik/src/View.java",
+		"/C/Users/Lukas/AppData/Roaming/Sublime Text 3/Packages/SublimeHaskell/Settings/SublimeHaskell.sublime-settings",
+		"/C/Users/Lukas/Desktop/Uni/Promo/4/A4-2.hs",
+		"/C/Users/Lukas/Desktop/Uni/Promo/3/H3-1.txt",
+		"/C/Users/Lukas/AppData/Roaming/Sublime Text 3/Packages/User/SublimeHaskell.sublime-settings",
+		"/C/Users/Lukas/Desktop/Uni/Promo/3/H3-2.hs",
+		"/C/Users/Lukas/Downloads/Rechnerarchitektur Blatt03/Rechnerarchitektur Blatt03/simple.txt",
+		"/C/Users/Lukas/Downloads/H2-2(1).hs",
+		"/C/Users/Lukas/Desktop/Uni/AlDa/3/3-3.txt",
+		"/C/Users/Lukas/git/fuchsigeaquarianer/Vorlage_Projekt_FuchsigeAquarianer/src/view/style.css",
+		"/C/Users/Lukas/Desktop/Uni/Promo/3/H3-3.hs",
+		"/C/Users/Lukas/git/fuchsigeaquarianer/.gitignore",
+		"/C/Users/Lukas/AppData/Local/Temp/Temp1_Rechnerarchitektur Blatt03.zip/Rechnerarchitektur Blatt03/simple.txt",
+		"/C/Users/Lukas/Desktop/customUniWorX.css",
+		"/C/Users/Lukas/Downloads/Rechnerarchitektur Blatt03/Rechnerarchitektur Blatt03/aufgabe14.s",
+		"/C/Users/Lukas/Desktop/Uni/Rechnerarchitektur/simple.s",
+		"/C/Users/Lukas/git/fuchsigeaquarianer/Vorlage_Projekt_FuchsigeAquarianer/res/style.css",
+		"/C/Users/Lukas/Downloads/H2-21.hs",
+		"/C/Users/Lukas/Desktop/Uni/Rechnerarchitektur/2.md",
+		"/C/Users/Lukas/Desktop/metalsmith-master/examples/static-site/metalsmith.json",
+		"/C/Users/Lukas/AppData/Local/Google/Chrome/User Data/Local State",
+		"/C/Users/Lukas/AppData/Local/Temp/Temp1_fuchsigeaquarianer-5aa28dd1991907064fa8a7b715188bacbea72b82.zip/fuchsigeaquarianer.git/Vorlage_Projekt_FuchsigeAquarianer/src/view/GameScreen.java",
+		"/C/Users/Lukas/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Lukas/Desktop/Uni/Promo/2/seekMinMax.hs",
+		"/C/Users/Lukas/Desktop/Uni/Rechnerarchitektur/2.html",
+		"/C/Users/Lukas/AppData/Roaming/Sublime Text 3/Packages/User/Java.sublime-settings",
+		"/C/Users/Lukas/Desktop/README.md",
+		"/C/Users/Lukas/Desktop/Uni/Promo/2/hanoiMove.hs",
+		"/C/Users/Lukas/AppData/Local/Temp/Temp1_fuchsigeaquarianer-5aa28dd1991907064fa8a7b715188bacbea72b82.zip/fuchsigeaquarianer.git/Vorlage_Projekt_FuchsigeAquarianer/src/model/Spielfeld.java",
+		"/C/Users/Lukas/Desktop/GitHubLog.txt",
+		"/C/Users/Lukas/Desktop/Uni/AlDa/2/2-3.md",
+		"/C/Users/Lukas/Desktop/Uni/AlDa/2/src/ListeGet.java",
+		"/C/Users/Lukas/Desktop/Uni/AlDa/2/src/Liste.java",
+		"/C/Users/Lukas/Desktop/eclipse_workspace/Exersice/src/Liste.java",
+		"/C/Users/Lukas/Desktop/Uni/AlDa/2/Liste.java",
+		"/C/Users/Lukas/Desktop/Uni/AlDa/2/ListeGet.java",
+		"/C/Users/Lukas/Desktop/Uni/AlDa/2/IntegerListe.java",
+		"/C/Users/Lukas/Desktop/Uni/Rechnerarchitektur/Aufgabe 3.md",
+		"/C/Users/Lukas/git/fuchsigeaquarianer/Vorlage_Projekt_FuchsigeAquarianer/src/Vorprojekt_Test/style.css",
+		"/C/Users/Lukas/Documents/Meine empfangenen Dateien/H1-3.txt",
+		"/C/Users/Lukas/Documents/Meine empfangenen Dateien/H1-2.txt",
+		"/C/Users/Lukas/Documents/Meine empfangenen Dateien/H1-3.hs",
+		"/C/Users/Lukas/Desktop/Uni/Rechnerarchitektur/Skript/1.md",
+		"/C/Users/Lukas/Desktop/Uni/Promo/1/Liste.java",
+		"/C/Users/Lukas/Desktop/Uni/aufgabe3.bmp",
+		"/C/Users/Lukas/Desktop/Uni/Rechnerarchitektur/Aufgabe 3",
+		"/C/Users/Lukas/git/fuchsigeaquarianer/Vorlage_Projekt_FuchsigeAquarianer/src/Vorprojekt_Test/SingleplayerView.java",
+		"/C/Users/Lukas/git/fuchsigeaquarianer/Vorlage_Projekt_FuchsigeAquarianer/src/Vorprojekt_Test/Controller.java",
+		"/C/Users/Lukas/git/fuchsigeaquarianer/Vorlage_Projekt_FuchsigeAquarianer/src/ressources/style.css",
+		"/C/Users/Lukas/git/fuchsigeaquarianer/Vorlage_Projekt_FuchsigeAquarianer/src/Vorprojekt_Test/StartView.java",
+		"/C/Users/Lukas/Desktop/MobiCollect/.gitignore",
+		"/C/Users/Lukas/Documents/GitHub/wintersmith/contents/articles/wintersmith/index.md",
+		"/C/Users/Lukas/Desktop/MobiCollect/app/jade/impressum.md",
+		"/C/Users/Lukas/Desktop/MobiCollect/app/jade/_contact.jade",
+		"/C/Users/Lukas/Desktop/MobiCollect/app/server/captcha.php",
+		"/C/Users/Lukas/Desktop/MobiCollect/app/server/contact.php",
+		"/C/Users/Lukas/Desktop/MobiCollect/app/styles/main.less",
+		"/C/Users/Lukas/Desktop/MobiCollect/app/jade/_people.jade",
+		"/C/Users/Lukas/Desktop/MobiCollect/Gruntfile.js",
+		"/C/Users/Lukas/Desktop/MobiCollect/trello.json",
+		"/C/Users/Lukas/Desktop/MobiCollect/app/jade/_tools.jade",
+		"/C/Users/Lukas/Desktop/MobiCollect/.ftppass.json",
+		"/C/Users/Lukas/Desktop/MobiCollect/app/jade/_nav.jade",
+		"/C/Users/Lukas/Desktop/MobiCollect/app/jade/content.json",
+		"/C/Users/Lukas/Desktop/MobiCollect/app/server/captcha.png",
+		"/C/Users/Lukas/AppData/Roaming/Sublime Text 3/Packages/User/sublime-text-markmon.sublime-settings",
+		"/C/Users/Lukas/Desktop/MobiCollect/README.md",
+		"/C/Users/Lukas/Desktop/MobiCollect/package.json",
+		"/C/Users/Lukas/Desktop/MobiCollect/app/styles/bootstrap_variables.less",
+		"/C/Users/Lukas/Desktop/boilerplate-bootstrap/Gruntfile.js",
+		"/C/Users/Lukas/Desktop/MobiCollect/app/scripts/main.js",
+		"/C/Users/Lukas/Desktop/FileZilla.xml",
+		"/C/Users/Lukas/Desktop/MobiCollect/app/jade/index.jade",
+		"/C/Users/Lukas/Desktop/MobiCollect/app/jade/_slideshow.jade",
+		"/C/Users/Lukas/Desktop/MobiCollect/.travis.yml",
+		"/C/Users/Lukas/Desktop/MobiCollect/.bowerrc",
+		"/C/Users/Lukas/Downloads/Zusammenfassung.md",
+		"/C/Users/Lukas/Desktop/MobiCollect/dist/robots.txt",
+		"/C/Users/Lukas/node_modules/yeoman/node_modules/bower/node_modules/vows/.travis.yml",
+		"/C/Users/Lukas/node_modules/yeoman/node_modules/connect/node_modules/formidable/..travis.yml.un~",
+		"/C/Users/Lukas/.ssh/id_dsa.pub",
+		"/C/Users/Lukas/.ssh/_travis.yml",
+		"/C/Users/Lukas/Desktop/MobiCollect/app/scripts/contact.js",
+		"/C/Users/Lukas/Desktop/HTMLtoolbox/boilerplate-site-master/.grunt-init/assemble/root/docs/README.tmpl.md",
+		"/C/Users/Lukas/AppData/Local/Temp/Temp1_ionicons-2.0.1.zip/ionicons-2.0.1/less/_ionicons-variables.less",
+		"/C/Users/Lukas/Desktop/MobiCollect/node_modules/grunt-contrib-connect/README.md",
+		"/C/Users/Lukas/AppData/Roaming/Sublime Text 3/Packages/sublime-text-markmon/sublime-text-markmon.sublime-settings",
+		"/C/Users/Lukas/AppData/Roaming/Sublime Text 3/Packages/Markdown Preview/MarkdownPreview.sublime-settings",
+		"/C/Users/Lukas/Desktop/MobiCollect/app/bower_components/modernizr/feature-detects/css-hyphens.js",
+		"/C/Users/Lukas/Desktop/HTMLtoolbox/boilerplate-site-master/src/templates/includes/alert.hbs",
+		"/C/Users/Lukas/Desktop/HTMLtoolbox/boilerplate-site-master/.grunt-init/assemble/root/content/code.md",
+		"/C/Users/Lukas/Desktop/MobiCollect/npm-debug.log",
+		"/C/Users/Lukas/Desktop/MobiCollect/node_modules/grunt-recess/node_modules/recess/package.json",
+		"/C/Users/Lukas/Desktop/MobiCollect/app/styles/main.css"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 96.0,
+		"where_history":
+		[
+			"C:\\Users\\Lukas\\Desktop\\MobiCollect\\app\\styles"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			",",
+			"\"",
+			"9000",
+			"sass",
+			"(\"",
+			"\nYou invited her.",
+			"You invited him.\n",
+			"(x:xs)",
+			"(z:zs)",
+			"(y:ys)",
+			"github",
+			"popTower",
+			"head",
+			"getElementByID",
+			"getTowerByID",
+			"towerList",
+			"getTower",
+			"min",
+			"iterator",
+			"Iterator",
+			"3",
+			"—",
+			"double",
+			"Bit",
+			" Bit",
+			"Mb",
+			"size",
+			"){",
+			"} else if (key == KeyCode.",
+			"up = true",
+			"scene2",
+			"){",
+			"if (key ==",
+			"if (key == ",
+			"..",
+			"pos",
+			"clean",
+			"clean:d",
+			"clean",
+			"less",
+			"lrS",
+			"concurr",
+			"\n",
+			"mocha",
+			">=",
+			": \"",
+			"^",
+			"her",
+			"@import",
+			"import",
+			"impo",
+			"\"",
+			"\\",
+			"livere",
+			"watch",
+			"less",
+			"]);\n",
+			"recess",
+			"connect",
+			"server",
+			"concu",
+			"server",
+			"font",
+			"-cense",
+			"jmpres",
+			"- ",
+			"http",
+			"a(href=\"",
+			" -",
+			"piwik_server",
+			"-",
+			"­",
+			"cop",
+			"contact.php",
+			"usemin",
+			"gd",
+			"$this",
+			"this",
+			"\"\"",
+			"mailVa",
+			"compile",
+			"mailInput",
+			"mail",
+			"main",
+			"=",
+			"server",
+			"\"",
+			"h3",
+			"ul",
+			"li",
+			"bodoni",
+			"fonts",
+			",",
+			".jade",
+			"webfonts",
+			";",
+			"font",
+			"dest",
+			"Produktinformationsmanagement",
+			"xs",
+			"56568317_22",
+			"\"",
+			"jade",
+			"watch",
+			"breakfast_menu",
+			"baum",
+			" c",
+			"c",
+			"x",
+			"origin",
+			"y",
+			"60",
+			"pluralOutput",
+			".",
+			"i]",
+			"[0]",
+			"0",
+			"enthaelt",
+			"i",
+			"arr int[]",
+			"x",
+			"tmp",
+			"'",
+			"id",
+			"Ü",
+			"theme",
+			"       >",
+			"               "
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"-",
+			"Double",
+			"",
+			"less",
+			"###",
+			"",
+			"-",
+			"Übung",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "downloadDropboxImages.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 282,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								277,
+								277
+							]
+						],
+						"settings":
+						{
+							"auto_name": "var dbox  = require(\"dbox\")",
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/User/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 547,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								519,
+								519
+							]
+						],
+						"settings":
+						{
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/User/JavaScript/JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 29.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 28.0
+	},
+	"output.git-commit":
+	{
+		"height": 124.0
+	},
+	"output.haskell_error_checker":
+	{
+		"height": 124.0
+	},
+	"output.haskell_sublime_load":
+	{
+		"height": 29.0
+	},
+	"output.markdown":
+	{
+		"height": 71.0
+	},
+	"pinned_build_system": "",
+	"project": "publicdisplay.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"htm",
+				"index.xhtml"
+			],
+			[
+				"alda4",
+				"AlDa\\4\\BinaerBaum.java"
+			],
+			[
+				"2.md",
+				"Rechnerarchitektur\\2.md"
+			],
+			[
+				"promo",
+				"Promo\\2\\hanoiMove.hs"
+			],
+			[
+				"2-1",
+				"Promo\\2\\H2-1.hs"
+			],
+			[
+				"grunt",
+				"Gruntfile.js"
+			],
+			[
+				"too",
+				"app\\jade\\_tools.jade"
+			],
+			[
+				"con",
+				"app\\jade\\content.json"
+			],
+			[
+				"tools",
+				"app\\jade\\_tools.jade"
+			],
+			[
+				"slide",
+				"app\\jade\\_slideshow.jade"
+			],
+			[
+				"ind",
+				"app\\jade\\index.jade"
+			],
+			[
+				"conte",
+				"app\\jade\\content.json"
+			],
+			[
+				"nav",
+				"app\\jade\\_nav.jade"
+			],
+			[
+				"inde",
+				"app\\jade\\index.jade"
+			],
+			[
+				"trav",
+				"C:\\Users\\Lukas\\.ssh\\_travis.yml"
+			],
+			[
+				"conta",
+				"app\\server\\contact.php"
+			],
+			[
+				"main",
+				"app\\styles\\main.less"
+			],
+			[
+				"conphp",
+				"app\\server\\contact.php"
+			],
+			[
+				"cap",
+				"app\\server\\captcha.php"
+			],
+			[
+				"conja",
+				"app\\jade\\_contact.jade"
+			],
+			[
+				"contac",
+				"app\\scripts\\contact.js"
+			],
+			[
+				"captcha",
+				"app\\server\\captcha.php"
+			],
+			[
+				"pack",
+				"package.json"
+			],
+			[
+				"boot",
+				"app\\styles\\bootstrap_variables.less"
+			],
+			[
+				"giti",
+				".gitignore"
+			],
+			[
+				"vari",
+				"app\\styles\\bootstrap_variables.less"
+			],
+			[
+				"content",
+				"app\\jade\\content.json"
+			],
+			[
+				"im",
+				"app\\jade\\impressum.md"
+			],
+			[
+				"impre",
+				"app\\jade\\impressum.md"
+			],
+			[
+				"impreja",
+				"app\\jade\\_impressum.jade"
+			],
+			[
+				"conten",
+				"app\\jade\\content.json"
+			],
+			[
+				"_con",
+				"app\\jade\\_contact.jade"
+			],
+			[
+				"tool",
+				"app\\jade\\_tools.jade"
+			],
+			[
+				"peop",
+				"app\\jade\\_people.jade"
+			],
+			[
+				"tools.ja",
+				"app\\jade\\_tools.jade"
+			],
+			[
+				"indde",
+				"app\\jade\\index.jade"
+			],
+			[
+				"grun",
+				"Gruntfile.js"
+			],
+			[
+				"favari",
+				"app/bower_components/font-awesome/less/variables.less"
+			],
+			[
+				"font-aw",
+				"app/bower_components/font-awesome/less/bootstrap.less"
+			],
+			[
+				"inde.php",
+				"app/images/index.php"
+			],
+			[
+				"tracks",
+				"app/tracks.json"
+			],
+			[
+				"va",
+				"app/bower_components/bootstrap/less/variables.less"
+			],
+			[
+				"tra",
+				"app/tracks.json"
+			],
+			[
+				"pla",
+				"app/playlists.json"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "un",
+		"selected_items":
+		[
+			[
+				"un",
+				"C:\\Users\\Lukas\\Desktop\\Uni\\uni.sublime-project"
+			],
+			[
+				"",
+				"C:\\Users\\Lukas\\Desktop\\MedienInfo\\publicDisplay\\publicdisplay.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 173.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

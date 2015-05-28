@@ -94,6 +94,7 @@ module.exports = (grunt) ->
     # Load all grunt tasks.
     require('load-grunt-tasks')(grunt)
 
+    require('./nodeTest.js')
 
     grunt.registerTask 'buildIndex',
         'Build index.html from templates/_index.html and slides/list.json.',
@@ -140,4 +141,3 @@ module.exports = (grunt) ->
         'serve'
     ]
 
-    require('./nodeTest.js')

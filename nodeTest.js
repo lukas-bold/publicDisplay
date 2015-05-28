@@ -1,5 +1,4 @@
 
-var fs = require('fs');
 
 grunt.registerTask('generateSlideMap', 'some task', function() {
   // Force task into async mode and grab a handle to the "done" function.
@@ -7,13 +6,14 @@ grunt.registerTask('generateSlideMap', 'some task', function() {
   // Run some sync stuff.
   grunt.log.writeln('Reading files..');
 
+    var fs = require('fs');
    fs.readdir('slides', function (err, files) {
         console.log(files);
         createIndex(files);
         done();
     });
 });
-
+/*
 function createIndex (files) {
     var res = new Array();
     for (var i = 0; i < files.length; i++) {
@@ -29,6 +29,7 @@ function createIndex (files) {
         } else if (files[i].match(/\.md/)) {
             res.push(files[i].toString());
         }
-    };
+    }
     console.log(res);
 }
+*/

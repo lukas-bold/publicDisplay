@@ -1,1 +1,1 @@
-grunt serve
+call grunt serve

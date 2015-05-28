@@ -12,7 +12,10 @@ npm i bower -g
 bower i
 ```
 in your console)
-- use the dropbox-client to sync your slide images and markdown-files with the `slides` folder (*Side Note:* images in the `image partials` folder wont be rendered as slides)
+- use the dropbox-client to sync your slide images and markdown-files with the `slides` folder (https://www.dropbox.com/de/help/175)
+
+*(**Side Note:** images in the `image partials` folder wont be rendered as slides)*
+
 - to start the presentation execute exe/install.bat from the main directory (or run
 ```
 grunt serve

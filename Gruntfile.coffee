@@ -1,8 +1,5 @@
 # Generated on 2015-05-18 using generator-reveal 0.4.0
 module.exports = (grunt) ->
-
-
-
     grunt.initConfig
 
         watch:
@@ -13,6 +10,7 @@ module.exports = (grunt) ->
                 files: [
                     'index.html'
                     'slides/{,*/}*.{md,html}'
+                    'slides/*.{md,jpg,JPG,png,PNG}'
                     'js/*.js',
                     'css/*.css'
                 ]
@@ -21,11 +19,10 @@ module.exports = (grunt) ->
                 files: [
                     'templates/_index.html'
                     'templates/_section.html'
-                    'slides/list.json'
+                    'slides/*.{md,jpg,JPG,png,PNG}'
                 ]
                 tasks: [
                     'buildIndex'
-                    'generateSlideMap'
                 ]
 
             coffeelint:
@@ -34,12 +31,6 @@ module.exports = (grunt) ->
 
             jshint:
                 files: ['js/*.js']
-
-            newSlides:
-                files: [
-                    'slides/*.{md,jpg,JGP,png,PNG}'
-                ],
-                tasks: []
 
         connect:
 
@@ -94,24 +85,31 @@ module.exports = (grunt) ->
     # Load all grunt tasks.
     require('load-grunt-tasks')(grunt)
 
-    require('./nodeTest.js')
-
     grunt.registerTask 'buildIndex',
         'Build index.html from templates/_index.html and slides/list.json.',
         ->
-            indexTemplate = grunt.file.read 'templates/_index.html'
-            sectionTemplate = grunt.file.read 'templates/_section.html'
-            gSlides = grunt.file.readJSON 'slides/list.json'
-            slides = gSlides
+            done = this.async()
 
-            html = grunt.template.process indexTemplate, data:
-                slides:
-                    slides
-                section: (slide) ->
-                    grunt.template.process sectionTemplate, data:
-                        slide:
-                            slide
-            grunt.file.write 'index.html', html
+            grunt.log.writeln 'Reading files..'
+            fs = require 'fs'
+            fs.readdir 'slides', (err, files) ->
+                console.log(files)
+
+                indexTemplate = grunt.file.read 'templates/_index.html'
+                sectionTemplate = grunt.file.read 'templates/_section.html'
+                slides = createIndex(files)
+
+                html = grunt.template.process indexTemplate, data:
+                    slides:
+                        slides
+                    section: (slide) ->
+                        grunt.template.process sectionTemplate, data:
+                            slide:
+                                slide
+                grunt.file.write 'index.html', html
+
+                done()
+
 
     grunt.registerTask 'test',
         '*Lint* javascript and coffee files.', [
@@ -141,3 +139,23 @@ module.exports = (grunt) ->
         'serve'
     ]
 
+
+createIndex = (files) ->
+    screenSaver = 'attr':
+        'class': 'screen-saver'
+        'data-background': '#000'
+
+    res = new Array
+    i = 0
+    while i < files.length
+         # Check if its a image
+        if files[i].match(/\.(jpg|png)/i)
+            res.push 'attr':
+                'class': 'image'
+                'data-background': 'slides/' + files[i]
+            res.push screenSaver
+        else if files[i].match(/\.md/)
+            res.push files[i].toString()
+            res.push screenSaver
+        i++
+    return res

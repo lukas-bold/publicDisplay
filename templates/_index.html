@@ -63,6 +63,12 @@
         <script src="bower_components/reveal.js/lib/js/head.min.js"></script>
         <script src="bower_components/reveal.js/js/reveal.js"></script>
         <script>
+
+
+        debugging = true;
+        timePerSlide = 5000;
+
+
             // Configure Reveal
             // Full list of configuration options available here:
             // https://github.com/hakimel/reveal.js#configuration
@@ -72,8 +78,8 @@
                 history: false,
                 center: true,
                 loop: true,
-                autoSlide: 5000,
-                autoSlideStoppable: true,
+                autoSlide: timePerSlide,
+                autoSlideStoppable: !debugging,
                 backgroundTransition: 'slide',
 
                 theme: Reveal.getQueryHash().theme, // available themes are in /css/theme

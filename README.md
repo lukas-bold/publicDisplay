@@ -5,6 +5,7 @@ by [Lukas Rambold](http://lukasrambold.com), May `15
 ## Make it work:
 
 - Install nodejs on your system and make sure that it's accesible from your global command scope
+- Install the LiveReload Extension for the default web browser of your System either [Firefox](https://addons.mozilla.org/de/firefox/addon/livereload/) or [Chrome](https://chrome.google.com/webstore/detail/livereload/jnihajbhpnppcggbcgedagnkighmdlei)
 - execute exe/install.bat in the main directory (or run
 ```
 npm i
